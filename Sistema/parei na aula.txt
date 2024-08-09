@@ -1,0 +1,4 @@
+### Instruções
+
+1. **Criar uma Rota para a Tela de Cadastro de Usuários**
+    - No arquivo `app.py`, adicione uma nova rota para exibir o formulário de cadastro de usuários. Essa rota deve ser acessível a usuários não autenticados.
